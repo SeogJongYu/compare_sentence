@@ -2,7 +2,7 @@
   "name": "compare_sentence",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://seogjongyu.github.io/compare_sentence",
+  "homepage": "https://seogjongyu.github.io/compare_sentence",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
