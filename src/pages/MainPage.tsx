@@ -10,7 +10,7 @@ export default function MainPage() {
   return (
     <div className="h-screen p-2">
       <div className="bg-yellow-200 mb-3 px-2 py-3 rounded text-xs">
-        한글과 공백만 입력하세요. (마침표, 쉼표, 특수문자 등 제외)
+        주의 !! 마침표, 쉼표, 특수문자 등 모든 문자가 카운팅 됩니다.
       </div>
       <div>
         <h1 className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">
