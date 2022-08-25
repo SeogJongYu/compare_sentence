@@ -44,6 +44,9 @@ export default function SentenceAnalyzer({
         if (targetItem.text === " ") {
           return;
         }
+        if (targetItem.text === "\n") {
+          return;
+        }
         if (targetItem.exist === true || sourceItem.exist === true) {
           return;
         }
